@@ -3,10 +3,11 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #D7EEF2;
+  background-color: rgba(114, 196, 224, 0.5);
 }
 
 h1 {
+  font-family: 'Indie Flower',cursive;
   font-weight: lighter;
   font-size: 40px;
   letter-spacing: 2px;
@@ -30,9 +31,11 @@ input {
 
 .addOption {
   margin-top: 10px;
-  background-color: #81CBC8;
 }
 
-.mini{
+button {
   background-color: #81CBC8;
+  color: white;
+  font-weight: lighter;
+  font-size: 20px;
 }
