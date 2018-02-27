@@ -3,7 +3,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #E61C5;
+  background-color: #D7EEF2;
 }
 
 h1 {
@@ -30,9 +30,9 @@ input {
 
 .addOption {
   margin-top: 10px;
-  background-color: lightblue;
+  background-color: #81CBC8;
 }
 
 .mini{
-  background-color: lightblue;
+  background-color: #81CBC8;
 }
